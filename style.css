@@ -1,0 +1,35 @@
+.Offer {
+    background: linear-gradient(#5DD9A0,#42A96E,#206E30 );
+    height: 70vh;
+    margin: 40px 0px 0px;
+    padding: 0px 0px 0px;
+    align-content: center;
+}
+.carekonet{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+h1{
+  text-align: center;
+}
+.Offer { font-size: 30;}
+.health{
+  margin: 10px 20px; 
+ display: flex; 
+ justify-content: space-between;
+  gap: 20px
+}
+.all{ border-radius: 5px;
+    align-content: left;
+    background-color: white;
+    /* padding: 80px 10px 10px; */
+}
+.all p{ color: gray;}
+nav a{
+  margin-right: 20px;
+}
+
+
+
+  
